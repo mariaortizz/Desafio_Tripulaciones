@@ -1,0 +1,110 @@
+,Date,Donor,Purpose,Amount,Country,medical,children,education,skill_development_project,building,relief,covid_19,foodbank,food,teen,women_empowerment,charity,community,non_reg_purpose,value_amount
+0,2018-05-07,it will be,,402553,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,402553
+1,2018-05-08,operation blessing,,75000,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,75000
+2,2018-05-25,operation blessing,,75000,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,75000
+3,2018-06-28,operation blessing,,75000,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,75000
+4,2018-08-08,it will be,,324808,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,324808
+5,2018-08-18,operation blessing,,217500,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,217500
+6,2018-08-24,operation blessing,,9700,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,9700
+7,2018-09-10,operation blessing,,70000,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,70000
+8,2018-10-16,foundation international research education,,1802664,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1802664
+9,2018-10-22,it will be,,266165,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,266165
+10,2018-10-25,operation blessing,,57500,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,57500
+11,2018-11-01,operation blessing,,57500,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,57500
+12,2018-11-21,operation blessing,,57500,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,57500
+13,2018-12-03,operation blessing,,72500,,0,0,0,0,0,0,0,0,0,0,0,0,0,1,72500
+14,2018-12-19,operation blessing,medical clinic,72500,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,72500
+15,2019-01-17,operation blessing,medical clinic,145000,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,145000
+16,2019-01-17,operation blessing,children education,170500,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,170500
+17,2019-01-24,foundation international research education,skill development project,1413931,,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1413931
+18,2019-02-01,imn,school building,668383,usa,0,0,0,0,1,0,0,0,0,0,0,0,0,0,668383
+19,2019-02-15,it will be,informal education,392801,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,392801
+20,2019-02-18,operation blessing,medical clinic,72500,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,72500
+21,2019-02-26,operation blessing,children education,76000,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,76000
+22,2019-03-16,operation blessing,medical clinic,72500,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,72500
+23,2019-03-16,operation blessing,children education,76000,,0,1,1,0,0,0,0,0,0,0,0,0,0,0,76000
+24,2019-03-26,imn,school building,1366589,usa,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1366589
+25,2019-05-17,it will be,children project,442751,spain,0,1,0,0,0,0,0,0,0,0,0,0,0,0,442751
+26,2019-05-17,streets of india,children,152275,spain,0,1,0,0,0,0,0,0,0,0,0,0,0,0,152275
+27,2019-05-23,operation blessing,children,96420,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,96420
+28,2019-06-18,operation blessing,children,94257,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,94257
+29,2019-06-20,operation blessing,children,46500,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,46500
+30,2019-07-09,community justice,children,111500,sweden,0,1,0,0,0,0,0,0,0,0,0,0,0,0,111500
+31,2019-07-24,operation blessing,children,96420,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,96420
+32,2019-07-29,it will be,children,442751,spain,0,1,0,0,0,0,0,0,0,0,0,0,0,0,442751
+33,2019-08-31,operation blessing,children,96420,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,96420
+34,2019-09-27,streets of india,children,73515,india,0,1,0,0,0,0,0,0,0,0,0,0,0,0,73515
+35,2019-10-30,streets of india,children,40796,india,0,1,0,0,0,0,0,0,0,0,0,0,0,0,40796
+36,2019-11-06,operation blessing,children,98583,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,98583
+37,2019-11-06,operation blessing,children,71460,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,71460
+38,2019-12-02,streets of india,children,45407,india,0,1,0,0,0,0,0,0,0,0,0,0,0,0,45407
+39,2019-12-02,operation blessing,children,71460,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,71460
+40,2019-12-07,it will be,children,442751,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,442751
+41,2019-12-20,operation blessing,children,71460,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,71460
+42,2020-01-23,operation blessing,children,71460,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,71460
+43,2020-03-18,operation blessing,children,142920 inr,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1572
+44,2020-04-06,streets of india,children emergency relief,2045euro,india,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2045
+45,2020-04-07,paypal payment,covid-19 work children project,719 inr,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,8
+46,2020-04-15,streets of india,children emergency relief,2000 euro,india,0,1,0,0,0,1,0,0,0,0,0,0,0,0,2000
+47,2020-04-17,it will be,children,245351 inr,,0,1,0,0,0,0,0,0,0,0,0,0,0,0,2699
+48,2020-04-20,paypal payment,covid-19 work children project,15126,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,15126
+49,2020-04-20,streets of india,covid 19 work children project,2000 euro,india,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2000
+50,2020-04-23,paypal payment,covid-19 work children project,6950,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,6950
+51,2020-04-27,operation blessing,children education/ food,50500,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,50500
+52,2020-05-01,streets of india,covid-19 work children project,2000 euro,india,0,1,0,0,0,0,1,0,0,0,0,0,0,0,2000
+53,2020-05-13,streets of india,covid 19 work children project,3000 euro,india,0,1,0,0,0,0,1,0,0,0,0,0,0,0,3000
+54,2020-05-19,it will be,foodbank counselling,2960 euro,,0,0,0,0,0,0,0,1,1,0,0,0,0,0,2960
+55,2020-05-20,paypal payment,covid-19 work children project,668,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,668
+56,2020-05-29,paypal payment,covid-19 work children project,11041,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,11041
+57,2020-05-30,operation blessing,children education /food,50500,india,0,1,1,0,0,0,0,0,1,0,0,0,0,0,50500
+58,2020-06-05,streets of india,children project food,2000 euro,india,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2000
+59,2020-06-22,foundation d enterprise decathlon,children food covid,2381 euro,,0,1,0,0,0,0,1,0,1,0,0,0,0,0,2381
+60,2020-06-24,operation blessing,children education /food,50500,india,0,1,1,0,0,0,0,0,1,0,0,0,0,0,50500
+61,2020-07-02,streets of india,children project food,2000 euro,india,0,1,0,0,0,0,0,0,1,0,0,0,0,0,2000
+62,2020-07-26,it will be,foodbank coiunselling,394351 inr,,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4338
+63,2020-07-27,operation blessing,children education/ food,51000 inr,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,561
+64,2020-07-27,smile foundation,children education/ food,50000 inr,,0,1,1,0,0,0,0,0,1,0,0,0,0,0,550
+65,2020-08-14,streets of india,children education /food,171521 inr,india,0,1,1,0,0,0,0,0,1,0,0,0,0,0,1887
+66,2020-08-20,paypal payment,covid-19 work children project,13570 inr,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,149
+67,2020-08-20,paypal payment,covid-19 work children project,3385 inr,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,37
+68,2020-08-24,paypal payment,covid-19 work children project,1680 inr,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,18
+69,2020-08-31,operation blessing,children education/ food,51000,india,0,1,1,0,0,0,0,0,1,0,0,0,0,0,51000
+70,2020-09-10,paypal payment,covid-19 work children project,1545,,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1545
+71,2020-09-23,operation blessing,children education/ food,51000,india,0,1,1,0,0,0,0,0,1,0,0,0,0,0,51000
+72,2020-10-19,it will be,foodbank /counselling,6900 euro,,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6900
+73,2020-10-27,streets of india,educational project,2000 euro,india,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2000
+74,2020-11-07,community justice,swabhiman project(teen challenge),174410 inr,sweden,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1919
+75,2020-11-23,streets of india,educational project,2000euro,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2000
+76,2020-12-16,it will be,food bank counselling,409351inr,spain,0,0,0,0,0,0,0,1,1,0,0,0,0,0,4503
+77,2020-12-18,netscribes india,children project,300000inr,india,0,1,0,0,0,0,0,0,0,0,0,0,0,0,3300
+78,2021-01-15,streets of india,education project,2000 euro,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2000
+79,2021-03-05,it will be,foodbank counselling,549351 inr,spain,0,0,0,0,0,0,0,1,1,0,0,0,0,0,6043
+80,2021-03-08,streets of india,education project,3000 euro,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3000
+81,2021-05-03,it will be,foodbank/education,504251 inr,spain,0,0,1,0,0,0,0,1,1,0,0,0,0,0,5547
+82,2021-05-20,streets of india,education,261725 inr,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2879
+83,2021-05-21,it will be,relief,176351 inr,spain,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1940
+84,2021-06-02,streets of india,medical relief,174720 inr,spain,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1922
+85,2021-06-24,streets of india,relief work,172715 inr,spain,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1900
+86,2021-07-30,it will be,education/ food,518334 inr,spain,0,0,1,0,0,0,0,0,1,0,0,0,0,0,5702
+87,2021-08-11,streets of india,education/food,261419 inr,spain,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2876
+88,2021-10-06,it will be,education/food,5 184.80 euro,spain,0,0,1,0,0,0,0,0,1,0,0,0,0,0,5184
+89,2021-10-14,community justice,counselling teen boys,345400 inr,sweden,0,0,0,0,0,0,0,0,0,1,0,0,0,0,3799
+90,2021-10-20,streets of india,education/food,237901 inr,spain,0,0,1,0,0,0,0,0,1,0,0,0,0,0,2617
+91,2021-11-17,it will be,foodbank and education,euro2285,spain,0,0,1,0,0,0,0,1,1,0,0,0,0,0,2285
+92,2021-11-23,streets of india,education project,euro 990,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,990
+93,2021-12-28,it will be,education project,249187 inr,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2741
+94,2022-03-09,streets of india,education/skill programme/ women empowerment,246442 inr,spain,0,0,1,1,0,0,0,0,0,0,1,0,0,0,2711
+95,2022-03-22,it will be,education project,409568 inr,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4505
+96,2022-03-29,streets of india,education/compter/ swing,163068 inr,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1794
+97,2022-03-30,it will be,food bank,165900 inr,spain,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1825
+98,2022-05-19,it will be,education project,399896 inr,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,4399
+99,2022-06-01,streets of india,education/skill programme/ women empowerment,72446 inr,spain,0,0,1,1,0,0,0,0,0,0,1,0,0,0,797
+100,2022-06-22,streets of india,education/skill programme/ women empowerment,200638 inr,spain,0,0,1,1,0,0,0,0,0,0,1,0,0,0,2207
+101,2022-06-27,streets of india,education/skill programme/ women empowerment,152987 inr,spain,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1683
+102,2022-07-20,streets of india,education/skill programme/ women empowerment,153333 inr,spain,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1687
+103,2022-08-11,it will be,education,321680 inr,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,3538
+104,2022-08-18,streets of india,education/skill programme/ women empowerment,168066 inr,spain,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1849
+105,2022-08-29,streets of india,education/skill programme/ women empowerment,155009 inr,spain,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1705
+106,2022-10-18,it will be,education,158880 inr,spain,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1748
+107,2022-11-19,global assis,charity purpose,2698553 inr,usa,0,0,0,0,0,0,0,0,0,0,0,1,0,0,29684
+108,2022-12-15,global assis,charity/community purpose,0,usa,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
