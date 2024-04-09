@@ -1,0 +1,101 @@
+ID_donante,nombre_donante,tipo_donante,correo_contacto,telefono_contacto
+1,Estrella del Mar,hotel,reservas@estrelladelmar.com,+1 (123) 456-7890
+2,Luna Azul,hotel,info@lunaazulhotel.com,+1 (234) 567-8901
+3,Oasis Dorado,hotel,contacto@oasisdorado.net,+1 (345) 678-9012
+4,Paraíso Tropical,hotel,info@paraisotropicalhotel.com,+1 (456) 789-0123
+5,Montaña Serena,hotel,reservas@montanaserena.com,+1 (567) 890-1234
+6,Amanecer Marino,hotel,contacto@amanecermarino.net,+1 (678) 901-2345
+7,Mirador del Valle,hotel,info@miradordelvallehotel.com,+1 (789) 012-3456
+8,Palacio del Sol,hotel,reservas@palaciodelsol.com,+1 (890) 123-4567
+9,Nubes Blancas,hotel,contacto@nubesblancas.net,+1 (901) 234-5678
+10,Cabañas del Bosque,hotel,reservas@cabanñasdelbosque.com,+1 (012) 345-6789
+11,Rincón Encantado,hotel,info@rinconencantadohotel.com,+1 (123) 456-7890
+12,Mariposas de Ensueño,hotel,contacto@mariposasensueño.net,+1 (234) 567-8901
+13,Brisas del Este,hotel,reservas@brisasdeleste.com,+1 (345) 678-9012
+14,Jardín Secreto,hotel,info@jardinsecretohotel.com,+1 (456) 789-0123
+15,Lago Esmeralda,hotel,contacto@lagoesmeralda.net,+1 (567) 890-1234
+16,Castillo de Sueños,hotel,reservas@castillodesueños.com,+1 (678) 901-2345
+17,Aurora Boreal,hotel,info@auroraborealhotel.com,+1 (789) 012-3456
+18,Torre del Ocaso,hotel,contacto@torredelocaso.net,+1 (890) 123-4567
+19,Bahía Brillante,hotel,reservas@bahíabrillante.com,+1 (901) 234-5678
+20,Playa Serena,hotel,info@playaserenahotel.com,+1 (012) 345-6789
+21,Costa Esmeralda,hotel,contacto@costaesmeralda.net,+1 (123) 456-7890
+22,Villa Primavera,hotel,reservas@villaprimavera.com,+1 (234) 567-8901
+23,Sueños de Oro,hotel,info@sueñosdeoro.net,+1 (345) 678-9012
+24,Sol Radiante,hotel,contacto@solradiantehotel.com,+1 (456) 789-0123
+25,Zenith Estival,hotel,reservas@zenithestival.com,+1 (567) 890-1234
+26,Viaje Estelar,hotel,info@viajeestelarhotel.com,+1 (678) 901-2345
+27,Residencia del Cielo,hotel,contacto@residenciacielo.net,+1 (789) 012-3456
+28,Encanto del Lago,hotel,reservas@encantodellago.com,+1 (890) 123-4567
+29,Puesta del Sol,hotel,info@puestadelsolhotel.com,+1 (901) 234-5678
+30,Palmas Tropicales,hotel,contacto@palmastropicales.net,+1 (012) 345-6789
+31,Horizonte Azul,hotel,reservas@horizonteazul.com,+1 (123) 456-7890
+32,Río de Estrellas,hotel,info@riodeestrellashotel.com,+1 (234) 567-8901
+33,Oasis de Plata,hotel,contacto@oasisdeplata.net,+1 (345) 678-9012
+34,Colinas del Sur,hotel,reservas@colinasdelsur.com,+1 (456) 789-0123
+35,Palacio de Cristal,hotel,info@palaciodecristalhotel.com,+1 (567) 890-1234
+36,Serena Armonía,hotel,contacto@serenaarmonia.net,+1 (678) 901-2345
+37,Paraíso Perdido,hotel,reservas@paraisoperdido.com,+1 (789) 012-3456
+38,Aventura Natural,hotel,info@aventuranaturalhotel.com,+1 (890) 123-4567
+39,Cielo Nocturno,hotel,contacto@cielonocturno.net,+1 (901) 234-5678
+40,Altamar Soñado,hotel,reservas@altamarsoñado.com,+1 (012) 345-6789
+41,TechNova Solutions,empresa,info@technovasolutions.com,+1 (293) 520-1419
+42,Global Ventures Inc.,empresa,contact@globalventuresinc.com,+1 (264) 492-6214
+43,InnoTech Innovations,empresa,info@innotechinnovations.com,+1 (205) 580-3146
+44,DataDynamics Corporation,empresa,contact@datadynamicscorp.com,+1 (202) 296-8676
+45,EcoGreen Enterprises,empresa,info@ecogreenenterprises.com,+1 (414) 366-0292
+46,SmartEdge Technologies,empresa,contact@smartedgetech.com,+1 (156) 038-7835
+47,FutureTech Solutions,empresa,info@futuretechsolutions.com,+1 (249) 939-1643
+48,InfoVision Systems,empresa,contact@infovisionsystems.com,+1 (268) 731-9905
+49,BrightSpark Innovations,empresa,info@brightsparkinnovations.com,+1 (600) 776-9773
+50,QuantumLeap Solutions,empresa,contact@quantumleapsolutions.com,+1 (606) 158-4576
+51,Spectrum Technologies,empresa,info@spectrumtechs.com,+1 (886) 141-9337
+52,NexGen Innovations,empresa,contact@nexgeninnovations.com,+1 (969) 861-5650
+53,InnovaWorks Inc.,empresa,info@innovaworksinc.com,+1 (577) 512-2587
+54,AlphaOmega Enterprises,empresa,contact@alphaomegaenterprises.com,+1 (770) 760-6598
+55,TechWave Solutions,empresa,info@techwavesolutions.com,+1 (132) 180-8586
+56,InnoData Corporation,empresa,contact@innodatacorp.com,+1 (275) 889-9305
+57,NewHorizon Technologies,empresa,info@newhorizontechs.com,+1 (883) 371-7046
+58,Synergetic Systems,empresa,contact@synergeticsystems.com,+1 (663) 981-2313
+59,VistaTech Solutions,empresa,info@vistatechsolutions.com,+1 (212) 313-3977
+60,DataWorks Innovations,empresa,contact@dataworksinnovations.com,+1 (572) 934-6458
+61,EcoLogic Enterprises,empresa,info@ecologicenterprises.com,+1 (358) 929-3113
+62,MindShift Technologies,empresa,contact@mindshifttech.com,+1 (476) 855-0398
+63,Apex Innovations Inc.,empresa,info@apexinnovationsinc.com,+1 (244) 617-2091
+64,BlueSky Enterprises,empresa,contact@blueskyenterprises.com,+1 (852) 782-0684
+65,TechTonic Solutions,empresa,info@techtonicsolutions.com,+1 (204) 602-8250
+66,InnoFusion Corporation,empresa,contact@innofusioncorp.com,+1 (990) 458-1051
+67,Strategic Systems Inc.,empresa,info@strategicsystemsinc.com,+1 (892) 698-5351
+68,PrimeTech Innovations,empresa,contact@primetechinnovations.com,+1 (493) 614-5665
+69,Optimum Solutions,empresa,info@optimumsolutions.com,+1 (122) 856-5210
+70,NexTech Enterprises,empresa,contact@nextechenterprises.com,+1 (755) 235-8727
+71,Juan Pérez,particular,juan.pérez@example.com,+1 (520) 030-6609
+72,María García,particular,maría.garcía@example.com,+1 (129) 856-5857
+73,Luis Rodríguez,particular,luis.rodríguez@example.com,+1 (741) 683-4696
+74,Ana Martínez,particular,ana.martínez@example.com,+1 (295) 300-9124
+75,Carlos Sánchez,particular,carlos.sánchez@example.com,+1 (718) 022-7599
+76,Laura González,particular,laura.gonzález@example.com,+1 (244) 451-3545
+77,Pedro López,particular,pedro.lópez@example.com,+1 (255) 499-9538
+78,Sofía Hernández,particular,sofía.hernández@example.com,+1 (992) 113-4247
+79,Diego Gómez,particular,diego.gómez@example.com,+1 (850) 698-8975
+80,Elena Díaz,particular,elena.díaz@example.com,+1 (715) 529-3504
+81,Javier Martín,particular,javier.martín@example.com,+1 (138) 450-5524
+82,Carmen Ruiz,particular,carmen.ruiz@example.com,+1 (264) 750-8532
+83,Alejandro Castro,particular,alejandro.castro@example.com,+1 (172) 537-5612
+84,Paula Torres,particular,paula.torres@example.com,+1 (916) 896-5210
+85,Ricardo Ramírez,particular,ricardo.ramírez@example.com,+1 (552) 013-8756
+86,Isabel Vázquez,particular,isabel.vázquez@example.com,+1 (342) 160-5683
+87,Miguel Morales,particular,miguel.morales@example.com,+1 (232) 700-6173
+88,Lucía Navarro,particular,lucía.navarro@example.com,+1 (734) 995-1832
+89,José Cruz,particular,josé.cruz@example.com,+1 (590) 966-7095
+90,Silvia Jiménez,particular,silvia.jiménez@example.com,+1 (831) 017-9784
+91,Fernando Ortega,particular,fernando.ortega@example.com,+1 (637) 591-8794
+92,Eva Fernández,particular,eva.fernández@example.com,+1 (783) 678-2433
+93,Andrés Rivas,particular,andrés.rivas@example.com,+1 (949) 791-6340
+94,Natalia Pascual,particular,natalia.pascual@example.com,+1 (166) 756-2681
+95,Roberto Blanco,particular,roberto.blanco@example.com,+1 (995) 952-3025
+96,Raquel Molina,particular,raquel.molina@example.com,+1 (829) 461-8539
+97,Gabriel Delgado,particular,gabriel.delgado@example.com,+1 (779) 653-4709
+98,Marina Medina,particular,marina.medina@example.com,+1 (862) 281-7769
+99,Daniel Iglesias,particular,daniel.iglesias@example.com,+1 (312) 264-4861
+100,Javier Cánovas,particular,javier.cánovas@example.com,+1 (778) 655-1533
