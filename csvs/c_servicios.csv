@@ -1,0 +1,20 @@
+ID_servicio,nombre_servicio,descripcion
+1,Tarjeta Aadhar,Expedicion tarjeta Aadhar
+2,Cuenta bancaria,Apertura de cuenta bancaria
+3,Acta de nacimiento,Gestion del acta de nacimiento
+4,Certificado de casta,Expedicion del certificado de casta
+5,Carnet de conducir,Tramitacion carnet de conducir
+6,Certificado de domicilio,Expedicion del certificado de domicilio
+7,Conexion de gas,Contratacion del servicio de gas
+8,Tarjeta PAN,Expedicion Tarjeta PAN
+9,Pasaporte,Tramitacion pasaporte
+10,Tarjeta de racionamiento,Expedicion de tarjeta de racionamiento
+11,Tarjeta de votante,Expedicion de tarjeta de votante
+12,Ladli,Programa del gobierno para garantizar el bienestar de las niñas
+13,Programa tercera edad,Programa social dirigido al apoyo a la tercera edad
+14,Programa viudas,Programa social de apoyo a mujeres viudas
+15,Sukanya Samriddhi,Programas de apoyo para la gestion financiera familiar
+16,Insercion laboral,Programas de formacion para trabajdores
+17,Kanya Dan,Programas de apoyo economico para las bodas de las niñas de familias empobrecidas
+18,Programa PM,Programas diseñados por el Ministerio de la Presidencia de India
+19,Programa discapacitados,Programa de apoyo a personas con discapacidad
