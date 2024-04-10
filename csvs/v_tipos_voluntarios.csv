@@ -1,0 +1,36 @@
+ID_tipo_voluntario,ID_voluntario,tipo_voluntariado,activo
+1,1,asistente social,1
+2,2,profesor,1
+3,3,profesor,1
+4,4,otros,0
+5,5,gestor,1
+6,5,profesor FP,1
+7,5,profesor,1
+8,6,profesor,1
+9,7,profesor,1
+10,7,profesor FP,0
+11,8,otros,1
+12,8,profesor,1
+13,9,cocinero,1
+14,10,gestor,1
+15,10,otros,1
+16,11,cocinero,1
+17,12,gestor,0
+18,13,profesor FP,1
+19,13,profesor,1
+20,14,profesor,1
+21,15,profesor FP,1
+22,16,profesor FP,1
+23,17,cocinero,1
+24,17,asistente social,1
+25,18,profesor,1
+26,18,cocinero,1
+27,19,profesor FP,1
+28,19,otros,1
+29,20,asistente social,1
+30,21,gestor,1
+31,22,gestor,0
+32,23,otros,1
+33,24,otros,1
+34,24,cocinero,1
+35,25,profesor FP,1
